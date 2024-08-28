@@ -1,4 +1,8 @@
-const getTheTitles = function() {
+const getTheTitles = function(books) {
+const booksArr = books;
+const result = [];
+booksArr.map((book)=> result.push(book.title))
+return result;
 
 };
 
