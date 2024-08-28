@@ -8,7 +8,7 @@ const subtract = function() {
 
 const sum = function() {
 	
-};
+};  
 
 const multiply = function() {
 
